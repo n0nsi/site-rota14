@@ -1,0 +1,1 @@
+{"$schema":"node_modules/wrangler/config-schema.json","name":"rota14-demo","compatibility_date":"2026-09-19","assets":{"directory":"./dist"}}
